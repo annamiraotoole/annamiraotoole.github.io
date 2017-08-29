@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> annamiraotoole.com </title>
+
+<style>
+  body { background-image: url("colorful-stirfry.jpg");
+background-repeat:no-repeat;
+background-size:cover; }
+  
+  a:hover {
+    color: MediumSpringGreen;
+    }
+  a:active {
+    color: MediumSpringGreen;
+    }
+  a:visited {
+    color: MediumSpringGreen;
+    }
+  a:link {
+    color: MediumSpringGreen;
+    }
+</style>
+  
+</head>
+  
+<body>
+  <a href="home.html"> <font size="200px"> Back Home </font> </a> <br/>
+  <font size="5px" color="white"> 
+  <b>
+  If you don't have permission to view this document, please ask. <br/>
+  If you do have permission, click
+  <a href="https://docs.google.com/document/d/1R2es8IlcGRIkLLzs9BJVa8Wy3jN02HqvQzc1NlziMwQ/edit?usp=sharing"> here </a>
+  .
+  </b>
+  </font>
+</body>
+
+</html>

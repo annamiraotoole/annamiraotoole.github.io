@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> annamiraotoole.com </title>
+
+<style>
+  body { background-image: url("summer-friend-painting-2-upsidedown.jpg");
+background-repeat:no-repeat;
+background-size:cover; }
+  
+  a:hover {
+    color: MediumSpringGreen;
+    }
+  a:active {
+    color: MediumSpringGreen;
+    }
+  a:visited {
+    color: MediumSpringGreen;
+    }
+  a:link {
+    color: MediumSpringGreen;
+    }
+</style>
+  
+</head>
+  
+<body>
+  <a href="home.html"> <font size="200px"> Home </font> </a> <br/>
+  <a href="cs.html"> <font size="200px"> Computer Science </font> </a> <br/>
+  <a href="math.html"> <font size="200px"> Math </font> </a> <br/>
+  <a href="sailing.html"> <font size="200px"> Sailing </font> </a> <br/>
+  <a href="tutoring.html"> <font size="200px"> Tutoring </font> </a> <br/>
+  <a href="resume.html"> <font size="200px"> Resume </font> </a> <br/>
+  
+  <a href="https://onefishy.github.io/TRiCAM_BostonAQ/boston_aq.html"> <font size="200px"> Harvard REU Air Quality Project </font> </a>
+</body>
+
+</html>
