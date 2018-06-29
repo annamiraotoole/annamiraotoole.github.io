@@ -1293,7 +1293,7 @@
 			}
 
 				#header nav ul li:first-child {
-					border-left: 1000;
+					border-left: 1000rem;
 				}
 
 				#header nav ul li a {
