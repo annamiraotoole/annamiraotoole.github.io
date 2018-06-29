@@ -1325,10 +1325,12 @@
 			width: 1px;
 			height: 100%;
 			background: #ffffff;
+			border: solid 1px #a8ff99;
 		}
 
 		#header nav.use-middle ul li.is-middle {
 			border-left: 0;
+			border: solid 1px #a8ff99;
 		}
 
 		body.is-article-visible #header {
