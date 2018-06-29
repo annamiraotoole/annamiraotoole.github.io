@@ -1327,7 +1327,7 @@
 			background: #ffffff;
 		}
 
-		#header nav.use-middle:after {
+		#header nav.use-middle:before {
 			background: #a8ff99;
 
 		}
