@@ -1175,11 +1175,11 @@
 
 		}
 
-/* Header */
-
-	#header title {
+	#title {
 		color: green;
 	}
+
+/* Header */
 
 	#header {
 		display: -moz-flex;
