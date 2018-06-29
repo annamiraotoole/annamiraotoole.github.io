@@ -1177,6 +1177,10 @@
 
 /* Header */
 
+	#header title {
+		color: green;
+	}
+
 	#header {
 		display: -moz-flex;
 		display: -webkit-flex;
