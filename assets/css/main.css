@@ -1244,7 +1244,7 @@
 
 		#header .content {
 			border-style: solid;
-			border-color: #ffffff;
+			border-color: #a8ff99;;
 			border-top-width: 1px;
 			border-bottom-width: 1px;
 			max-width: 100%;
@@ -1325,12 +1325,10 @@
 			width: 1px;
 			height: 100%;
 			background: #ffffff;
-			border: solid 1px #a8ff99;
 		}
 
 		#header nav.use-middle ul li.is-middle {
 			border-left: 0;
-			border: solid 1px #a8ff99;
 		}
 
 		body.is-article-visible #header {
