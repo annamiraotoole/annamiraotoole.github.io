@@ -1293,7 +1293,7 @@
 			}
 
 				#header nav ul li:first-child {
-					border-left: 1000rem;
+					border-left: 0;
 				}
 
 				#header nav ul li a {
@@ -1318,7 +1318,7 @@
 
 		#header nav.use-middle:after {
 			content: '';
-			display: block;
+			display: none;
 			position: absolute;
 			top: 0;
 			left: calc(50% - 1px);
