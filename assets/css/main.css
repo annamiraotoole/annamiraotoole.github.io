@@ -1175,10 +1175,6 @@
 
 		}
 
-	.title {
-		color: green;
-	}
-
 /* Header */
 
 	#header {
@@ -1287,7 +1283,7 @@
 			margin-bottom: 0;
 			list-style: none;
 			padding-left: 0;
-			border: solid 1px #ffffff;
+			border: solid 1px #a8ff99;
 			border-radius: 4px;
 		}
 
