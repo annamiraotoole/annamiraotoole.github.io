@@ -1332,9 +1332,8 @@
 
 		}
 
-		#header nav.is-middle {
+		#header nav ul li.is-middle {
 			background: #a8ff99;
-
 		}
 
 		#header nav.use-middle ul li.is-middle {
