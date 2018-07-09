@@ -1334,7 +1334,8 @@
 		}
 
 		#header nav.use-middle ul li.is-middle {
-			border-left: 0;
+			border-left: solid 1px #a8ff99;
+
 		}
 
 		body.is-article-visible #header {
