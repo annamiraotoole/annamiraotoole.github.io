@@ -1334,7 +1334,7 @@
 
 		#header nav.use-middle ul li.is-middle {
 			border-left: 0;
-			background: #a8ff99;
+			border-bottom: 5rem;
 		}
 
 		body.is-article-visible #header {
