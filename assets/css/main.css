@@ -1291,11 +1291,11 @@
 			#header nav ul li {
 				padding-left: 0;
 				border-left: solid 1px #a8ff99;
-				border-top: solid 1px #a8ff99;
 			}
 
 				#header nav ul li:first-child {
 					border-left: 0;
+					border-top: solid 1px #a8ff99;
 				}
 
 				#header nav ul li a {
