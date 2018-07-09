@@ -1332,12 +1332,9 @@
 
 		}
 
-		#header nav ul li.is-middle {
-			background: #a8ff99;
-		}
-
 		#header nav.use-middle ul li.is-middle {
 			border-left: 0;
+			background: #a8ff99;
 		}
 
 		body.is-article-visible #header {
