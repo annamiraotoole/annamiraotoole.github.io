@@ -1219,7 +1219,7 @@
 				left: calc(50% - 1px);
 				width: 1px;
 				height: calc(3.5rem + 1px);
-				background: #ffffff;
+				background: #a8ff99;
 			}
 
 		#header > :first-child {
@@ -1228,6 +1228,7 @@
 
 			#header > :first-child:before {
 				display: none;
+				background: #a8ff99;
 			}
 
 		#header .logo {
@@ -1330,6 +1331,7 @@
 
 		#header nav.use-middle:before {
 			background: #a8ff99;
+			border-color: #a8ff99;
 
 		}
 
